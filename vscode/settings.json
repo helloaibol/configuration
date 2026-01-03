@@ -1,0 +1,14 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "security.workspace.trust.enabled": false,
+  "telemetry.telemetryLevel": "off",
+  "chat.disableAIFeatures": true,
+  "extensions.ignoreRecommendations": true,
+  "editor.tabSize": 2,
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggest.showInlineDetails": false,
+  "editor.fontFamily": "SF Mono",
+  "go.toolsManagement.autoUpdate": true,
+  "vim.hlsearch": true
+}
