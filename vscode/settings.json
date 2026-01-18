@@ -9,6 +9,8 @@
   "editor.inlineSuggest.enabled": false,
   "editor.suggest.showInlineDetails": false,
   "editor.fontFamily": "SF Mono",
+  "editor.fontSize": 13,
   "go.toolsManagement.autoUpdate": true,
-  "vim.hlsearch": true
+  "vim.hlsearch": true,
+  "vim.cursorStylePerMode.insert": "block"
 }
